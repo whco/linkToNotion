@@ -5,4 +5,6 @@ Links to notion
 [CS](https://sixth-hurricane-e8c.notion.site/CS-1f35e3cdd77041cc98c84f9f91fbeb6d)<br>
 [리팩토링](https://sixth-hurricane-e8c.notion.site/f75e7dac3674487cbc2831390f702a0c)<br>
 [yisaraven 프로젝트](https://sixth-hurricane-e8c.notion.site/f75e7dac3674487cbc2831390f702a0c)<br>
+[JAVA STUDY](https://www.notion.so/Java-Study-56acef8e46b3468195d576efd8481e62)
 [기타 code tip](https://sixth-hurricane-e8c.notion.site/Code-tip-342185bed8cc4489a1151aa8a8c41d4c)<br>
+
